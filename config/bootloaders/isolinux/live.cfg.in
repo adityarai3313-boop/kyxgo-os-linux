@@ -1,7 +1,7 @@
 menu hshift 0
 menu width 82
 
-menu title debian-live-config 5.0.0 - Boot menu
+menu title KYXGO-live-config 5.0.0 - Boot menu
 include stdmenu.cfg
 
 label live-@FLAVOUR@-english
@@ -11,12 +11,12 @@ label live-@FLAVOUR@-english
         initrd @INITRD@
         append @APPEND_LIVE@ locales=en_US.UTF-8
 
-label live-@FLAVOUR@-french
-        menu label ^Live (@FLAVOUR@) (French)
+label live-@FLAVOUR@-english
+        menu label ^Live (@FLAVOUR@) (ENGLISH)
         menu default
         linux @LINUX@
         initrd @INITRD@
-        append @APPEND_LIVE@ locales=fr_FR.UTF-8
+        append @APPEND_LIVE@ locales=us_US.UTF-8
 
 label installgui
     menu label ^Install
