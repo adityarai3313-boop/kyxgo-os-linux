@@ -23,7 +23,7 @@ mpv-mpris
 #Alt: totem-plugins
 #Alt: vlc-plugin-svg
 #Alt: celluloid
-#Alt: vlc-plugin-bittorrent
+vlc-plugin-bittorrent
 #Alt: mpv-mpris
 #Alt: libdvd-pkg
 #gnome-dvb-client # bookworm only
@@ -93,7 +93,7 @@ gnome-video-effects
 vokoscreen-ng
 #Alt: obs-studio
 #Alt: kazam
-#Alt: byzanz
+byzanz
 #Alt: obs-source-clone
 #Alt: simplescreenrecorder
 #Alt: obs-ashmanix-countdown
@@ -160,7 +160,7 @@ media-player-info
 #Alt: sound-juicer
 #Alt: goobox
 #Alt: ripperx
-#Alt: xcfa
+xcfa
 #cyanrip: # sid only
 
 #Section: Subtitles
