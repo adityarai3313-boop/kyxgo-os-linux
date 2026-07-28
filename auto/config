@@ -24,8 +24,8 @@ lb config noauto \
 --firmware-binary true \
 --firmware-chroot true \
 --initramfs live-boot \
---iso-publisher debian-live-config \
---iso-volume debian-live-config-5.0.0 \
+--iso-publisher kyxgo-live-config \
+--iso-volume kyxgo-live-config-5.0.0 \
 --linux-packages "linux-image linux-headers" \
 --bootappend-live "boot=live config splash" \
 --memtest memtest86+
