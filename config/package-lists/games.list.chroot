@@ -31,13 +31,13 @@
 #Alt: games-board
 #Alt: games-tasks
 #Alt: games-card
-#Alt: games-fps
+games-fps
 #Alt: games-python3-dev
 #Alt: games-tetris
 #Alt: games-c++-dev
 #Alt: games-java-dev
-#Alt: games-racing
-#Alt: games-chess
+games-racing
+games-chess
 #Alt: games-minesweeper
 #Alt: games-rogue
 #Alt: games-toys
@@ -48,7 +48,7 @@
 #Alt: games-content-dev
 #Alt: games-perl-dev
 #Alt: games-shootemup
-#Alt: games-education
+games-education
 #Alt: games-platform
 #Alt: games-simulation
 #Alt: naev
