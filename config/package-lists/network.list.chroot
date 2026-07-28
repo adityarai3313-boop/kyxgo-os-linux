@@ -2,12 +2,12 @@
 
 #Section: Web browsers
 #Description: firefox-esr
-firefox-esr
-firefox-esr-l10n-fr
-webext-ublock-origin-firefox
-webext-keepassxc-browser
+#Alt: firefox-esr
+#Alt: firefox-esr-l10n-fr
+#Alt: webext-ublock-origin-firefox
+#Alt: webext-keepassxc-browser
 #Alt: luakit
-#Alt: chromium
+chromium
 #Alt: nss-passwords
 #Alt: w3m
 #Alt: links2
@@ -29,7 +29,7 @@ webext-keepassxc-browser
 #Alt: pidgin-extprefs
 #Alt: pidgin-gnome-keyring
 #Alt: finch
-#Alt: telegram-send
+telegram-send
 #Alt: dino-im
 #Alt: gajim
 #Alt: mcabber
@@ -133,7 +133,7 @@ wget
 
 #Section: Feed readers
 ##Description: liferea
-#Alt: liferea
+liferea
 #Alt: newsboat
 #Alt: gnome-feeds
 #Alt: tickr
@@ -142,7 +142,7 @@ wget
 #quiterss # bookworm only
 
 #Section: LAN file sharing
-#Alt: samba
+samba
 #Alt: samba-vfs-modules 
 #Alt: smbclient
 #Alt: servefile
@@ -200,9 +200,9 @@ blueman
 wireless-regdb
 #Alt: gnome-user-share
 #Alt: ganyremote
-#Alt: hostapd
-#Alt: aircrack-ng
-#Alt: btscanner
+hostapd
+aircrack-ng
+btscanner
 #zeek # sid only
 #gnome-bluetooth # bookworm only
 
@@ -295,9 +295,9 @@ bind9-dnsutils
 #Alt: endlessh
 
 #Section: Remote access/desktop clients
-#Alt: remmina
-#Alt: remmina-plugin-rdp
-#Alt: remmina-plugin-vnc
+remmina
+remmina-plugin-rdp
+remmina-plugin-vnc
 #Alt: weevely
 #Alt: x2goclient
 #remmina-plugin-nx # sid only
@@ -323,18 +323,18 @@ openssh-client
 #vino # bookworm only
 
 #Section: Scanners
-#Alt: nmap
+nmap
 #Alt: nikto
 #Alt: zmap
-#Alt: sqlmap
+sqlmap
 #Alt: themole
 #Alt: arp-scan
-#Alt: arping
-#Alt: whatweb
+arping
+whatweb
 #Alt: knockpy
 #Alt: spectre-meltdown-checker
 #Alt: ndiff
-#Alt: masscan
+masscan
 #Alt: pompem
 #Alt: dirb
 #Alt: dhcpig
@@ -343,14 +343,14 @@ openssh-client
 #Alt: wig
 #Alt: reaver
 #Alt: bully
-#Alt: hydra
-#Alt: ophcrack
-#Alt: hashcat
+hydra
+ophcrack
+hashcat
 #Alt: hashcat-data
 #Alt: mdk3
-#Alt: dnsmap
+dnsmap
 #Alt: dnsenum
-#Alt: dirsearch
+dirsearch
 #Alt: aws-nuke
 #Alt: firewalk
 #Alt: urlextractor
@@ -362,9 +362,9 @@ openssh-client
 
 #Section: Tor
 #Alt: tor-geoipdb
-#Alt: tor
+tor
 #Alt: torsocks
-#Alt: torbrowser-launcher
+torbrowser-launcher
 
 #Section: GeoIP databases
 #Alt: geoip-bin
