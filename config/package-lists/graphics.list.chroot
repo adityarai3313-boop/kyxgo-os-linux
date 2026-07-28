@@ -34,9 +34,9 @@ create-resources
 #Alt: drawing
 #Alt: mypaint
 #Alt: mtpaint
-#Alt: xpaint
+xpaint
 #Alt: multimedia-animation
-#pinta # sid only
+pinta # sid only
 #gimp-plugin-registry # bookworm only
 #gimp-gutenprint # bookworm only
 #gimp-gmic # bookworm only
@@ -66,20 +66,20 @@ xournal
 
 #Section: Color pickers
 #Alt: gcolor3
-#Alt: gpick
+gpick
 
 #Section: Batch image processing
 #Alt: aspic
-#Alt: pixelize
+pixelize
 #Alt: hugin
 #Alt: aaphoto
 
 #Section: Camera upload/management
 #Alt: rapid-photo-downloader
-#Alt: gtkam
+gtkam
 
 #Section: Game asset editors
-#Alt: tiled
+tiled
 #Alt: games-content-dev
 
 #Section: Color grading
@@ -94,7 +94,7 @@ gsfonts-x11
 #Section: Label/barcode editors
 ##Screenshot: glabels
 #Alt: glabels
-#Alt: qrencode
+qrencode
 #Alt: qtqr
 #Alt: zbar-tools
 #Alt: zint-qt
@@ -102,7 +102,7 @@ gsfonts-x11
 
 #Section: 3D editors
 ##Description: blender
-#Alt: blender
+blender
 #Alt: sweethome3d
 #Alt: sweethome3d-furniture
 #Alt: sweethome3d-furniture-editor
@@ -136,7 +136,7 @@ gsfonts-x11
 #Alt: voctomix
 #Alt: stopmotion
 #Alt: education-video
-#Alt: auto-editor
+auto-editor
 #ffdiaporama # bullseye only
 #lives # sid only
 #shotdetect # sid only
