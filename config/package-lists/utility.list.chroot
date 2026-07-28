@@ -64,7 +64,7 @@ xfce4-pulseaudio-plugin
 #Alt: plank
 #Alt: kupfer
 #Alt: gnome-pie
-#Alt: xfce4-appfinder
+xfce4-appfinder
 #Alt: synapse
 #Alt: zeitgeist
 #Alt: zeitgeist-datahub
@@ -153,7 +153,7 @@ vim-tiny
 
 #Section: Sticky notes
 #xfce4-notes # experimental only
-#Alt: xpad
+xpad
 
 #Section: Maps
 ##Description: gnome-maps
@@ -163,7 +163,7 @@ vim-tiny
 #Alt: geoclue-2.0
 #Alt: josm
 #Alt: navit
-#Alt: gpsd
+gpsd
 #Alt: routino
 #Alt: mkgmapgui
 #Alt: mkgmap
@@ -277,14 +277,14 @@ gnome-font-viewer
 #Section: Spell checking/dictionaries
 hunspell
 hunspell-en-us
-hunspell-fr
+#hunspell-fr
 aspell
-aspell-fr
-hunspell-fr
+#aspell-fr
+#hunspell-fr
 ispell
 iamerican
-ibritish
-ifrench-gut
+#ibritish
+#ifrench-gut
 wfrench
 #Alt: xfce4-dict
 #Alt: goldendict
