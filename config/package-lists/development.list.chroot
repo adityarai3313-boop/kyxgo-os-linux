@@ -121,7 +121,7 @@ debconf-utils
 #nvchecker # sid only
 
 #Section: Debuggers
-#Alt: gdb
+gdb
 #Alt: chaos-marmosets
 
 #Section: Python
@@ -169,14 +169,14 @@ live-build
 
 #Section: HTML/CSS/JS
 #Alt: csstidy
-#Alt: vera
+vera
 #Alt: nodejs
 #Alt: npm
 #Alt: jsbeautifier
 #Alt: yarnpkg
 
 #Section: Databases
-#Alt: sqlite3
+sqlite3
 #Alt: sqlfluff
 
 #Section: PHP
