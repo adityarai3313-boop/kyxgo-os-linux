@@ -1,4 +1,4 @@
-image: debian:trixie
+image: KYXGO 
 
 build:
   script:
